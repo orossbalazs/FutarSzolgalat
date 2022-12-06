@@ -1,0 +1,4 @@
+regvasarlo,lapat@gmail.com,asd123
+regvasarlo,vall@freemail.hu,qwe123
+regvasarlo,kagebela@gmail.com,ASD123
+regvasarlo,sanyi@gmail.com,Password

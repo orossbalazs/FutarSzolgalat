@@ -1,0 +1,9 @@
+﻿  etterem.cpp
+  felhasznalo.cpp
+  felhasznalotarolo.cpp
+  futar.cpp
+  main.cpp
+  regvasarlo.cpp
+  Generating Code...
+C:\Users\david\source\repos\SzofTechFutar2\Futar_szolgalat\felhasznalotarolo.cpp(77): warning C4715: 'FelhasznaloTarolo::belepes': not all control paths return a value
+  Futar_szolgalat.vcxproj -> C:\Users\david\source\repos\SzofTechFutar2\x64\Debug\Futar_szolgalat.exe

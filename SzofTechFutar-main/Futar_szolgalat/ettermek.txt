@@ -1,0 +1,5 @@
+McDonald's,gyorsetterem
+KFC,gyorsetterem
+Finom Pizza,olasz
+Lucifer Pizzeria,olasz
+Burger King,gyorsetterem
